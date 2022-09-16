@@ -21,3 +21,10 @@ Cuebiq is transforming the way businesses interact with mobility data by providi
 - Define a vision for a product.
 - Align stakeholders around the vision for the product.
 ##### Technical Product Manager _(Mar 2020 - Mar 2021)_ <br>
+- Partner with software engineers, data scientists, product managers and customer success to drive key product deliverables through the entire software development cycle
+- Partner with software engineers to optimize our development process and make sure we're shipping high quality products every day
+- Synthetize concrete technical goals from product vision, mapping global product strategy to granular team tasks and issues.
+- Deconflict cross-team collaboration. Read a room of technical experts to align them around shared objectives. Improve efficiency where there is miscommunication and lack of coordination
+
+**Chief Technology Officer @ [DCG](https://dcg.net/) _(May 2017 - Feb 2020)_ <br>
+DCG is a data company, focused on human and digital behaviours. With presence in EMEA and APAC, DCG has developed analytics and predicitive analytics software with a particular focus on Retail, Transportation an Enterntainment.
