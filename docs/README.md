@@ -46,13 +46,13 @@ DCG is a data company, focused on human and digital behaviours. With presence in
 
 **Web Developer** _(Mar 2014 - Apr 2017)_ <br>
 Broader experience in different companies as a web developer, mainly full-stack.
-<br><br>
+<br><br><br>
 
 ## 🪢 Blogger experiennce
 
 **[Life is a Product](https://lifeisaproduct.substack.com)** _(Jul 2022 - Present)_ <br>
 Stories, experiences and life lessons regarding my most relevant working experiences, with a particular focus on Product ones. I started this project when I realized that the life itself is a very long roadmap, everyone of us has a vision and epics are just days that pass quickly.
-<br>br>
+<br><br><br>
 
 ## 🔭 Startup experience
 
@@ -62,14 +62,14 @@ L-Move is a collective of business professionals with broad expertise around the
 - Create the vision for developing, communicating, and implementing the end customer experience across devices/surfaces.
 - Use systems-level design thinking to drive design solutions from your team that scale.
 - Influence cross-team conceptual development; working with members from research, engineering, product management, business development and others.
-<br><br>
+<br><br><br>
 
 ## 🙊 Languages
 
 🇮🇹 Italian: Native<br>
 🇬🇧 English: B1<br>
 🇪🇸 Spanish: B1<br>
-<br><br>
+<br><br><br>
 
 ## 🦸 Interest & Hobbies
 
