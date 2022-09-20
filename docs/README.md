@@ -7,7 +7,7 @@ _Product Manager and dummy blogger based in Milan 🇮🇹_ <br>
 ## Working Experience
 
 **Product Manager** @ [Cuebiq](https://cuebiq.com) _(Mar 2020 - Present)_ <br>
-Cuebiq is transforming the way businesses interact with mobility data by providing a high-quality and transparent currency to map and measure offline behavior. Cuebiq is at the forefront of all industry privacy standards, establishing an industry leading data collection framework, making it safe and easy for businesses to use location data for innovation and growth.
+Cuebiq is transforming the way businesses interact with mobility data by providing a high-quality and transparent currency to map and measure offline behavior. Cuebiq is at the forefront of all industry privacy standards, establishing an industry leading data collection framework, making it safe and easy for businesses to use location data for innovation and growth.<br>
 ##### Director, Product Management _(Mar 2022 - Present)_ <br>
 - Understand and maintain ownership of product profitability to set and meet revenue expectations.
 - Uncover and anticipate users needs and supporting functions within Cuebiq and the broader business to drive the product vision, strategy and roadmap.
@@ -25,9 +25,10 @@ Cuebiq is transforming the way businesses interact with mobility data by providi
 - Partner with software engineers to optimize our development process and make sure we're shipping high quality products every day
 - Synthetize concrete technical goals from product vision, mapping global product strategy to granular team tasks and issues.
 - Deconflict cross-team collaboration. Read a room of technical experts to align them around shared objectives. Improve efficiency where there is miscommunication and lack of coordination
+<br><br>
 
 **Chief Technology Officer** @ [DCG](https://dcg.net/) _(May 2017 - Feb 2020)_ <br>
-DCG is a data company, focused on human and digital behaviours. With presence in EMEA and APAC, DCG has developed analytics and predicitive analytics software with a particular focus on Retail, Transportation an Enterntainment.
+DCG is a data company, focused on human and digital behaviours. With presence in EMEA and APAC, DCG has developed analytics and predicitive analytics software with a particular focus on Retail, Transportation an Enterntainment.<br>
 ##### Chief Technology Officer _(Jan 2018 - Feb 2020)_ <br>
 - Identify opportunities and risks for the business.
 - Monitor social and technology trends that could influence the company's business goals.
@@ -41,6 +42,7 @@ DCG is a data company, focused on human and digital behaviours. With presence in
 
 **Web Developer** _(Mar 2014 - Apr 2017)_ <br>
 Broader experience in different companies as a web developer, mainly full-stack.
+<br><br>
 
 ## Startup experience
 
