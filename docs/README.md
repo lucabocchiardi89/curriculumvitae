@@ -28,3 +28,26 @@ Cuebiq is transforming the way businesses interact with mobility data by providi
 
 **Chief Technology Officer** @ [DCG](https://dcg.net/) _(May 2017 - Feb 2020)_ <br>
 DCG is a data company, focused on human and digital behaviours. With presence in EMEA and APAC, DCG has developed analytics and predicitive analytics software with a particular focus on Retail, Transportation an Enterntainment.
+##### Chief Technology Officer _(Jan 2018 - Feb 2020)_ <br>
+- Identify opportunities and risks for the business.
+- Monitor social and technology trends that could influence the company's business goals.
+- Manage research and development of technology, IT assets and associated revenue.
+- Develop a strategy to oversee the use of new technology in the organization.
+- Assist with the recruitment, retention, acquisition and sales efforts of the company. Build relationships with vendors, communities and customers.
+##### Product Owner _(May 2017 - Dec 2017)_ <br>
+- Managing and prioritizing the product backlog.
+- Translating product managers’ strategies to tasks for development.
+- Serving as a liaison between product/business and development.
+
+**Web Developer** _(Mar 2014 - Apr 2017)_ <br>
+Broader experience in different companies as a web developer, mainly full-stack.
+
+## Startup experience
+
+**Co-Founder and Head of UX** @ [L-Move](https://www.l-move.net) _(Dec 2016 - Jan 2018)_ <br>
+L-Move is a collective of business professionals with broad expertise around the business creation process from the early stages of business planning, modelling, and financial forecasting to the formation and the go to market. L-Move enables people to showcase the best of a business idea to investors, clients and to dedicated teams.
+##### Head of UX _(Dec 2016 - Jan 2018)_ <br>
+- Create the vision for developing, communicating, and implementing the end customer experience across devices/surfaces.
+- Use systems-level design thinking to drive design solutions from your team that scale.
+- Influence cross-team conceptual development; working with members from research, engineering, product management, business development and others.
+
