@@ -1,21 +1,22 @@
 # Luca Bocchiardi
 
-_Product Manager and dummy blogger based in Milan 🇮🇹_ <br>
+_Product Enthusiast and dummy blogger based in Milan 🇮🇹_ <br>
 
 [Email](mailto:luca.bocchiardi@gmail.com) / [Linkedin](https://www.linkedin.com/in/lucabocchiardi/) / [Blog](https://lifeisaproduct.substack.com) / [Twitter](https://twitter.com/lukab_89)
 
 ## 🪄 Working Experience
 
-**Product Manager** @ [Cuebiq](https://cuebiq.com) _(Mar 2020 - Present)_ <br>
+**Product** @ [Cuebiq](https://cuebiq.com) _(Mar 2020 - Present)_ <br>
 Cuebiq is transforming the way businesses interact with mobility data by providing a high-quality and transparent currency to map and measure offline behavior. Cuebiq is at the forefront of all industry privacy standards, establishing an industry leading data collection framework, making it safe and easy for businesses to use location data for innovation and growth.<br>
-#### Director, Product Management _(Mar 2022 - Present)_ <br>
+#### Director, Product _(Mar 2022 - Present)_ <br>
 - Understand and maintain ownership of product profitability to set and meet revenue expectations.
+- Responsible for the management and growth of a team of Product Managers and Product Designers.
 - Uncover and anticipate users needs and supporting functions within Cuebiq and the broader business to drive the product vision, strategy and roadmap.
-- Establish, manage and maintain a roadmap of priorities for the product team driven by data, validated learning and a keen understanding of cross-team dependencies.
+- Establish, manage and maintain a roadmap of priorities for the company driven by data, validated learning and a keen understanding of cross-team dependencies.
 - In collaboration with a cross-functional stakeholder group, define go-to-market strategies and execute smooth product delivery including necessary documentation and thorough testing of new products and features.
 - Establish and manage metrics and milestones to ensure ongoing tracking of roadmap.<br>
 
-#### Product Manager _(Apr 2021 - Feb 2022)_ <br>
+#### Senior Product Manager _(Apr 2021 - Feb 2022)_ <br>
 - Understand and represent user needs.
 - Monitor the market and develop competitive analyses.
 - Prioritize product features and capabilities.
@@ -77,4 +78,4 @@ L-Move is a collective of business professionals with broad expertise around the
 - Football
 - Videogames
 - Crypto
-- Finance
+- Finance & Investments
